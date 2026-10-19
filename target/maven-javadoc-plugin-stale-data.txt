@@ -1,0 +1,43 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+25
+-sourcepath
+'C:/L5_projects/8411/assignment01/coffeebrewer/src/main/java;C:/L5_projects/8411/assignment01/coffeebrewer/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 1980. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/L5_projects/8411/assignment01/coffeebrewer/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Coffee Brewer 1.0.0 API'
+-notimestamp
+-use
+-version
+-windowtitle
+'Coffee Brewer 1.0.0 API'
+com.suhas.coffeebrewer
+C:\L5_projects\8411\assignment01\coffeebrewer\src\main\java = 1792366634118
+C:\L5_projects\8411\assignment01\coffeebrewer\target\generated-sources\annotations = 1792379349167
+C:\L5_projects\8411\assignment01\coffeebrewer\target\reports\apidocs\allclasses-index.html = 1792379364261
+C:\L5_projects\8411\assignment01\coffeebrewer\target\reports\apidocs\allpackages-index.html = 1792379364263
+C:\L5_projects\8411\assignment01\coffeebrewer\target\reports\apidocs\element-list = 1792379364207
+C:\L5_projects\8411\assignment01\coffeebrewer\target\reports\apidocs\help-doc.html = 1792379364290
+C:\L5_projects\8411\assignment01\coffeebrewer\target\reports\apidocs\index-all.html = 1792379364282
+C:\L5_projects\8411\assignment01\coffeebrewer\target\reports\apidocs\index.html = 1792379364285
+C:\L5_projects\8411\assignment01\coffeebrewer\target\reports\apidocs\member-search-index.js = 1792379364267
+C:\L5_projects\8411\assignment01\coffeebrewer\target\reports\apidocs\module-search-index.js = 1792379364264
+C:\L5_projects\8411\assignment01\coffeebrewer\target\reports\apidocs\overview-tree.html = 1792379364250
+C:\L5_projects\8411\assignment01\coffeebrewer\target\reports\apidocs\package-search-index.js = 1792379364265
+C:\L5_projects\8411\assignment01\coffeebrewer\target\reports\apidocs\search.html = 1792379364284
+C:\L5_projects\8411\assignment01\coffeebrewer\target\reports\apidocs\tag-search-index.js = 1792379364268
+C:\L5_projects\8411\assignment01\coffeebrewer\target\reports\apidocs\type-search-index.js = 1792379364266
